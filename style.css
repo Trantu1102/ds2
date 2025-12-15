@@ -262,7 +262,7 @@ body {
 
 @media (max-width: 600px) {
     body {
-        background: linear-gradient(135deg, #ff5050 0%, #a90000(142, 100%, 24%) 100%);
+        background: linear-gradient(135deg, #fff6eb 0%, #ffe9b3 100%);
     }
 
     .container {
